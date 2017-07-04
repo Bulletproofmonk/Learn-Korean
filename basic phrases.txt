@@ -1,4 +1,4 @@
-Hello: 안녕하세요 annyeonghaseyo
+你好 Hello: 안녕하세요 annyeonghaseyo
 Good-bye (when they're leaving but you're staying): 안녕히 가세요 annyeonghi gaseyo
 Good-bye (when you're leaving but they're leaving): 안녕히 계세요 or 잘 가요
 Yes: 예 or 네
